@@ -1,2 +1,2 @@
 # TelegramNotifierService
-Test
+[file] - D:\test\worldbank.pdf
